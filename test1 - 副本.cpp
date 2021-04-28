@@ -68,77 +68,7 @@ void testedPro(double a, double b, int* fi)
             }
         }
     }
-    /*
-    if(a>5)
-    {
-
-        if(b!=3)
-        {
-            if(a==4)
-            {
-
-                fi[0]=1;
-            }
-            else{
-
-                fi[1]=1;
-            }
-        }
-        else{
-
-            fi[2]=1;
-            }
-    if(a<=5)
-            if(b!=3)
-        {
-            if(a==4)
-            {
-
-                fi[3]=1;
-            }
-            else{
-
-                fi[4]=1;
-            }
-        }
-        else{
-
-            fi[5]=1;
-            }
-    }
-	/*if (a <= 0 || b <= 0 || c <= 0)
-	{
-		//printf("±ßÖµÎÞÐ§!\n");
-		fi[0] = 1;
-	}
-	else if (a + b <= c || a + c <= b || b + c <= a)
-	{
-		//printf("²»ÄÜ¹¹³ÉÈý½ÇÐÎ!\n");
-		fi[1] = 1;
-	}
-	else
-	{
-		if (a == c || a == b || b == c)
-		{
-			if (a == c && a == b)
-			{
-				//printf("µÈ±ßÈý½ÇÐÎ!\n");
-				fi[2] = 1;
-			}
-			else
-			{
-				//printf("µÈÑüÈý½ÇÐÎ!\n");
-				fi[3] = 1;
-			}
-		}
-		else
-		{
-			//printf("Ð±Èý½ÇÐÎ!\n");
-			fi[4] = 1;
-		}
-	}*/
-}
-
+    
 
 /***********************************************************/
 /* Random value generator: Generates a value within bounds */
